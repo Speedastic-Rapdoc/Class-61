@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+}
+#app{
+    background-color: beige;
+}
+#game{
+    background-color: aquamarine;
+}
+.line{
+    height: 8px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
